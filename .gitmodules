@@ -1,0 +1,6 @@
+[submodule "opt/cybtpy"]
+	path = opt/cybtpy
+	url = https://github.com/mkayala/cybtpy.git
+[submodule "opt/pylearn2"]
+	path = opt/pylearn2
+	url = git@github.com:uci-igb/pylearn2.git
