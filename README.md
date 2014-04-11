@@ -19,7 +19,12 @@ cd data
 unzip *.zip
 ```
 
+After extracting, copy the files from the `SBV_STC_subchallenge1_gold_standard` folder
+into the `SBV_STC_subchallenge2` folder.
+
 # Relevant scripts
 
 The relevant scripts for the competition are in the `scripts` dir, and
 they work with files from the `data` and `out` directories.
+
+
