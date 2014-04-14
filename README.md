@@ -24,7 +24,10 @@ into the `SBV_STC_subchallenge2` folder.
 
 # Relevant scripts
 
-The relevant scripts for the competition are in the `scripts` dir, and
+The neural network training is performed using the Pylearn2 submodule, with the script and readme located in
+improver2013/opt/pylearn2/pylearn2/scripts/improver2013/
+
+The analysis scripts for the competition are in the `scripts` dir, and
 they work with files from the `data` and `out` directories.
 
 
